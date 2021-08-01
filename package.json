@@ -1,0 +1,14 @@
+{
+  "name": "demo_unit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "promises-aplus-tests adapter"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
